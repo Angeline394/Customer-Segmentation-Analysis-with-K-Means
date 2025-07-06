@@ -67,6 +67,15 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 - Apa karakteristik khas tiap klaster?
 - Apa strategi bisnis yang cocok diterapkan untuk tiap segmen?
 
+
+## ✅ Dataset Berhasil Dimuat
+
+Dataset berhasil dimuat dan dibaca tanpa error, seperti ditunjukkan berikut:
+
+![Input Sukses](images/input%20sukses.png)
+
+
+
 ## 📊 Dashboard Segmentasi Pelanggan
 
 Visualisasi hasil segmentasi pelanggan menggunakan RFM dan K-Means:
