@@ -71,7 +71,7 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 
 Dataset telah berhasil dimuat dan dibaca tanpa kendala. Berikut adalah tampilan bukti keberhasilannya:
 
-![Input Sukses](images/input_sukses.png)
+![Input Sukses](images/input sukses.png)
 
 
 
