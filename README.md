@@ -67,9 +67,11 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 - Apa karakteristik khas tiap klaster?
 - Apa strategi bisnis yang cocok diterapkan untuk tiap segmen?
 
-## Dashboard Segmentasi Pelanggan
+## 📊 Dashboard Segmentasi Pelanggan
 
-![Customer Segmentation Dashboard](customer_segmentation_dashboard.png)
+Berikut adalah visualisasi hasil segmentasi pelanggan menggunakan algoritma K-Means berdasarkan metrik RFM (Recency, Frequency, Monetary):
+
+![Dashboard Segmentasi](images/customer_segmentation_dashboard.png)
 
 
 
