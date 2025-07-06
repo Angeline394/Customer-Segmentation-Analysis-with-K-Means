@@ -69,9 +69,10 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 
 ## 📊 Dashboard Segmentasi Pelanggan
 
-Berikut adalah visualisasi hasil segmentasi pelanggan menggunakan algoritma K-Means berdasarkan metrik RFM (Recency, Frequency, Monetary):
+Visualisasi hasil segmentasi pelanggan menggunakan RFM dan K-Means:
 
-![Dashboard Segmentasi](images/customer_segmentation_dashboard.png)
+![Dashboard K-Means](images/Customer_segmentation_dashboard.png)
+
 
 
 
