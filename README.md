@@ -68,11 +68,11 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 - Apa strategi bisnis yang cocok diterapkan untuk tiap segmen?
 
 
-## ✅ Data Berhasil Dimuat
+## ✅ Dataset Berhasil Dimuat
 
-Dataset telah berhasil dimuat dan dibaca tanpa kendala. Berikut adalah tampilan bukti keberhasilannya:
+Dataset berhasil dimuat dan dibaca tanpa error, seperti ditunjukkan berikut:
 
-![Input Sukses](images/input_sukses.png)
+![Input Sukses](images/input%20sukses.png)
 
 
 
