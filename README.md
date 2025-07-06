@@ -71,7 +71,7 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 
 Visualisasi hasil segmentasi pelanggan menggunakan RFM dan K-Means:
 
-![Dashboard K-Means](images/Customer_segmentation_dashboard.png)
+![Dashboard K-Means](images/Customer_segmentation_dashboard.png.png)
 
 
 
