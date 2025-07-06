@@ -67,13 +67,11 @@ Setelah terbentuk klaster, dilakukan analisis terhadap masing-masing kelompok pe
 - Apa karakteristik khas tiap klaster?
 - Apa strategi bisnis yang cocok diterapkan untuk tiap segmen?
 
-### 9. Penyajian Insight
-Insight dari analisis ini disusun dalam bentuk:
+## Dashboard Segmentasi Pelanggan
 
-- **Dashboard interaktif** (jika digunakan `Plotly Dash`),
-- **Slide presentasi** untuk menjelaskan hasil analisis secara visual dan ringkas.
+![Customer Segmentation Dashboard](customer_segmentation_dashboard.png)
 
----
+
 
 ## 🛠️ Tools dan Teknologi
 
